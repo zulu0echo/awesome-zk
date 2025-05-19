@@ -198,6 +198,7 @@ More specific to ZK:
 
 - [Adapt Framework: a toolkit for building end-to-end decentralized systems](https://www.adaptframework.solutions)
 - [Atlas Protocol: Zero-Knowlege Blockchain Development Platform](http://atlaszk.com/ide)
+- [Mopro: a toolkit for ZK mobile native app development and client-side proving](https://zkmopro.org/docs/intro)
 
 ### Zk-Applications
 
